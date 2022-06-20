@@ -12,6 +12,7 @@ namespace BorderlandsNumPlayersSetter
         [STAThread]
         static void Main()
         {
+            // Change from branch B here
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
