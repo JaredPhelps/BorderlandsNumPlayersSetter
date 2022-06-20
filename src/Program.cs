@@ -15,6 +15,7 @@ namespace BorderlandsNumPlayersSetter
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
+            // change from branch A here
         }
     }
 }
